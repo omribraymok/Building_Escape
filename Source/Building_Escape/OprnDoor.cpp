@@ -1,10 +1,10 @@
 // Copyright Omri Braymok 2021
 
 
-#include "Engine/World.h"
-#include "GameFramework/PlayerController.h"
 #include "OprnDoor.h"
+#include "Engine/World.h"
 #include "GameFramework/Actor.h"
+#include "GameFramework/PlayerController.h"
 
 // Sets default values for this component's properties
 UOprnDoor::UOprnDoor()
